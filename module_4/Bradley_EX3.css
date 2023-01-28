@@ -1,0 +1,78 @@
+/*
+    Assignment: Module 4.3
+        Author: Shayla Bradley 
+          Date: 1/21/23
+
+    This program links to Bradley_EX3.html.
+
+*/
+
+h1 {
+    text-align: center;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+  
+#left_div {
+    display: inline-block;
+    width: 45%;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 10px;
+    list-style-position: inside;
+}
+  
+#right_div {
+    display: inline-block;
+    width: 45%;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    border: 1px dashed red;
+    border-radius: 15px;
+    padding: 10px;
+    list-style-position: inside;
+    float: right;
+}
+
+/*H3 weight: 500*/
+h3 {
+    font-weight: 500;
+}
+/* List weight: 300. */  
+li {
+    font-weight: 300;
+}
+/* Ordered list: 1px solid red border w/15 border-radius,
+   padding 10px, numbers in border.*/
+ol {
+    list-style-position: inside;
+    border: 1px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: red;
+    padding: 10px;
+}
+/* Unordered list: 1px dashed red border w/15px border-radius.*/
+ul{
+    list-style-position: inside;
+    list-style-type: upper-roman;
+    border: 1px;
+    border-style: dashed;
+    border-radius: 15px;
+    border-color: red;
+    padding: 10px;
+}
+
+#last_div {
+    width: 100%;
+    margin-top: 60px;
+    float: right;
+    margin-bottom: 20px;
+}
+
+a{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
