@@ -54,9 +54,7 @@ img {
     height: 350px;
 }
 a {
-    width: 100%;
-    margin-top: 60%;
-    margin-bottom: 20px;
-    float: right;
-
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
 }
