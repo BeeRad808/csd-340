@@ -40,19 +40,20 @@ figcaption {
     grid-template-columns: repeat(3, 1fr);
     margin-top: 10%;
 }
-.pic {
+
+#pic {
     padding: 5px;
-    border: solid;
     border-radius: 15px;
     font-size: 30px;
     text-align: center;
-    border-color: solid rgba(185, 63, 8);
+    border: solid rgba(185, 63, 8);
 }
 
 img {
     width: 400px;
     height: 350px;
 }
+
 a {
     position: absolute;
     bottom: 10px;
