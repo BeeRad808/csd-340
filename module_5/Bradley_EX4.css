@@ -25,6 +25,11 @@ figure {
     text-align: center;
 }
 
+img {
+    width: 400px;
+    height: 350px;
+}
+
 figcaption {
     font-style: italic;
     font-size: 0.75em;
@@ -33,28 +38,18 @@ figcaption {
     color: rgb(185, 63, 8);
 }
 
-img {
-    width: 400px;
-    height: 350px;
-}
-
 #image-gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     margin-top: 10%;
 }
 
-#pic {
+.pic {
     padding: 5px;
     border-radius: 15px;
     font-size: 30px;
     text-align: center;
     border: solid rgba(185, 63, 8);
-}
-
-img {
-    width: 400px;
-    height: 350px;
 }
 
 #landing-page-link {
