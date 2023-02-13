@@ -6,6 +6,10 @@
     This program links to Bradley_Mod7_2.html.
 */
 
+body {
+  font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
 header {
     background-color: #0b7a0a;
     color: white;
