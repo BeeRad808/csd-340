@@ -50,3 +50,8 @@ figcaption {
     text-align: center;
     border: solid rgba(185, 63, 8);
 }
+
+#landing-page-link {
+    position: absolute;
+    margin-bottom: 10px;
+}
