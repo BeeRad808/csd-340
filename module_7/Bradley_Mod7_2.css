@@ -7,7 +7,7 @@
 */
 
 header {
-    background-color: #1a9518;
+    background-color: #0b7a0a;
     color: white;
     padding: 20px;
     text-align: center;
@@ -19,8 +19,8 @@ header {
   
   #navbar {
     overflow: hidden;
-    background-color: #1a9518;
-    border-bottom: 15px solid #000000;
+    background-color: #3d4f3c;
+    border-bottom: 15px solid #0b7a0a;
   }
   
   #navbar a {
@@ -67,7 +67,7 @@ header {
   
   
 footer {
-  background-color: #003366;
+  background-color: #0b7a0a;
   position: absolute;
   bottom: 0;
   width: 100%;
