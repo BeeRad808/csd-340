@@ -52,18 +52,18 @@ h1 {
   width: 50%;
 }
   
-.card-title, .movies-title {
+.card-title {
   text-align: center;
   font-size: 2em;
   color: #000000;
   font-weight: 400;
 }
   
-.card-content, .movies-content {
+.card-content {
   padding: 2px 16px;
 }
   
-.card:hover, .movies:hover {
+.card:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
   
@@ -77,6 +77,7 @@ h1 {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
+  color: black;
 }
 
 #movies td {
