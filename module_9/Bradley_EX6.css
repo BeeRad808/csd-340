@@ -87,7 +87,7 @@ h1 {
   
 footer {
   background-color: #0b7a0a;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
