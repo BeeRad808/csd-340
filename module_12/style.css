@@ -6,13 +6,16 @@
     This program links to Bradley_12.2.html.
 */
 
-/* Define color palette */
-:root {
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,700;1,300&display=swap');
+</style>
+
+/* Define color palette
     --primary-color: #2c3e50;
     --secondary-color: #f9cb26;
     --light-color: #c8eef8;
     --dark-color: #36426d;
-  }
+*/
   
   /* Global styles */
   body {
