@@ -12,7 +12,7 @@
 
 /* Define color palette
     --primary-color: #2c3e50;
-    --secondary-color: #f9cb26;
+    --secondary-color: #c187a2;
     --light-color: #c8eef8;
     --dark-color: #36426d;
 */
@@ -66,7 +66,7 @@ h3 {
   }
   
   .intro .card h3 {
-    color: #f9cb26;
+    color: #c187a2;
   }
 
 /* Header */
@@ -101,7 +101,7 @@ header {
 }
   
 .card h3 {
-    color: #f9cb26;
+    color: #c187a2;
 }
   
 /* Contact */
@@ -129,7 +129,7 @@ header {
 }
   
 .contact-form button[type="submit"] {
-    background-color: #f9cb26;
+    background-color: #c187a2;
     color: #fff;
     padding: 10px 20px;
     border-radius: 5px;
